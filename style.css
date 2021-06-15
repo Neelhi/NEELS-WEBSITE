@@ -1,0 +1,39 @@
+body{
+  text-align:center;
+}
+#section1{
+      background:linear-gradient( #e5eb34 30%, #2ef0ec );
+  background-repeat:repeat;
+     font-size: 45px;
+    height: 500px;
+}
+#section2{
+      background:linear-gradient( #2ef0ec 30%, #e5eb34 );
+  background-repeat:repeat;
+    font-size: 25px;
+    height: 600px;
+}
+img{
+  border-radius:50%;
+  width:100px;
+}
+h1{
+  text-shadow:2px 2px 2ef0ecv;
+  font-size:27px;
+}
+p{
+  font-size:25px;
+  color: #6a1b9a;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right:30px;
+    cursor: pointer;
+    border-color: black;
+}
+#myname{
+    font-family: 'Courgette', cursive;
+}
